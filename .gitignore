@@ -1,0 +1,8 @@
+# Unity Generated Files
+Library/
+Temp/
+Logs/
+Build/
+.obj/
+.DS_Store
+.vscode/
